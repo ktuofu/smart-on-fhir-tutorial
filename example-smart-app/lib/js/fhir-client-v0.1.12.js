@@ -12744,7 +12744,7 @@ var
 	cssShow = { position: "absolute", visibility: "hidden", display: "block" },
 	cssNormalTransform = {
 		letterSpacing: "0",
-		fontWeight: "400"
+		fontWeight: "100"
 	},
 
 	cssPrefixes = [ "Webkit", "O", "Moz", "ms" ];
